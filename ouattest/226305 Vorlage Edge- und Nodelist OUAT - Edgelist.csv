@@ -1,0 +1,12 @@
+from,to,weight,relationship
+R,E,1,2
+R,MM,3,2
+R,D,2,2
+R,C,1,1
+MM,R,2,2
+MM,C,1,2
+MM,D,1,1
+D,R,2,3
+C,R,1,1
+C,E,1,3
+C,MM,1,2
