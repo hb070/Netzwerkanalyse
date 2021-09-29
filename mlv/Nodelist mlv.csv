@@ -1,6 +1,6 @@
 id,name,age,sex,education
 A,Mutter,2,2,2
-B;Bruder,1,1,1
-C;Freund,1,1,1
-D;Freundin,1,2,1
+B,Bruder,1,1,1
+CFreund,1,1,1
+D,Freundin,1,2,1
 E,ich,1,2,1
