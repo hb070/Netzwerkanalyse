@@ -1,6 +1,6 @@
-id;name;power;sex
-L;Loki;1;2
-M;Mobius;2;2
-R;Ravonna;2;1
-S;Sylvie;1;1
-JDB;Jenerderbleibt;3;2
+id,name,power,sex
+L,Loki,1,2
+M,Mobius,2,2
+R,Ravonna,2,1
+S,Sylvie,1,1
+JDB,Jenerderbleibt,3,2
