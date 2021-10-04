@@ -1,0 +1,15 @@
+from;to;weight;relation
+L;S;2;3
+L;M;2;1
+L;R;1;1
+L;JDB;1;2
+S;L;2;3
+S;M;1;1
+S;JDB;1;2
+S;R;1;1
+M;L;2;4
+M;R;2;1
+M;S;1;4
+R;L;1;4
+R;S;1;4
+R;M;2;4
